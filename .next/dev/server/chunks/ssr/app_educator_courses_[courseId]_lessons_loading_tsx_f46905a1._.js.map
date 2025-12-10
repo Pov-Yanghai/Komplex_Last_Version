@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///D:/Work_For_School/Year_lll/Term_l/Project_Management/e-learning-platform-design-new-version/app/educator/courses/%5BcourseId%5D/lessons/loading.tsx"],"sourcesContent":["export default function Loading() {\n  return (\n    <div className=\"space-y-6 p-4 sm:p-6\">\n      <div className=\"h-10 w-64 bg-muted animate-pulse rounded\" />\n      <div className=\"grid grid-cols-1 md:grid-cols-3 gap-4\">\n        {[1, 2, 3].map((i) => (\n          <div key={i} className=\"h-24 bg-muted animate-pulse rounded-lg\" />\n        ))}\n      </div>\n      <div className=\"h-96 bg-muted animate-pulse rounded-lg\" />\n    </div>\n  )\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC;gBAAI,WAAU;;;;;;0BACf,8OAAC;gBAAI,WAAU;0BACZ;oBAAC;oBAAG;oBAAG;iBAAE,CAAC,GAAG,CAAC,CAAC,kBACd,8OAAC;wBAAY,WAAU;uBAAb;;;;;;;;;;0BAGd,8OAAC;gBAAI,WAAU;;;;;;;;;;;;AAGrB"}}]
+}
