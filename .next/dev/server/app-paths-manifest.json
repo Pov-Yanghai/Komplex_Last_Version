@@ -1,15 +1,7 @@
 {
-  "/admin/courses/page": "app/admin/courses/page.js",
-  "/admin/educators/page": "app/admin/educators/page.js",
-  "/admin/users/page": "app/admin/users/page.js",
-  "/browse-courses/[id]/page": "app/browse-courses/[id]/page.js",
-  "/browse-courses/page": "app/browse-courses/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
   "/dashboard/student/page": "app/dashboard/student/page.js",
-  "/educator/quizzes/page": "app/educator/quizzes/page.js",
   "/login/page": "app/login/page.js",
-  "/my-courses/[courseId]/lesson/[lessonId]/page": "app/my-courses/[courseId]/lesson/[lessonId]/page.js",
   "/my-courses/[courseId]/page": "app/my-courses/[courseId]/page.js",
-  "/page": "app/page.js",
-  "/signup/page": "app/signup/page.js"
+  "/my-courses/page": "app/my-courses/page.js",
+  "/page": "app/page.js"
 }
